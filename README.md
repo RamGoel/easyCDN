@@ -1,6 +1,5 @@
 # cdnExtension
 
-Browser Extension for Amazing and Most Useful Links and CDN's so you don't have to copy again and again.
+No more Searching for CDN Links again and again on the Web. Our Tool cdnExtension solves this problem by keeping all the popular cdn links right on the top of your browser.
 
 
-Author @RamGoel
