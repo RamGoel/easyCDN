@@ -7,6 +7,6 @@ Features-
 - CDN Links from Various Providers
 - Easy one click access
 - Multiple Browser Support
-##contributors
+## contributors
 [Ram Goel](https://github.com/RamGoel)
 
