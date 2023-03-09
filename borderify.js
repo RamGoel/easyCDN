@@ -10,11 +10,14 @@ let links = {
   "Bootsrap JS": `<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.0-beta1/js/bootstrap.min.js" integrity="sha512-Hqe3s+yLpqaBbXM6VA0cnj/T56ii5YjNrMT9v+us11Q81L0wzUG0jEMNECtugqNu2Uq5MSttCg0p4KK0kCPVaQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>`,
   "Bootstrap CSS Import": `@import url("https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.0-beta1/css/bootstrap.min.css")`,
   "Bootstrap CSS Link": `<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.0-beta1/css/bootstrap.min.css" integrity="sha512-o/MhoRPVLExxZjCFVBsm17Pkztkzmh7Dp8k7/3JrtNCHh0AQ489kwpfA3dPSHzKDe8YCuEhxXq3Y71eb/o6amg==" crossorigin="anonymous" referrerpolicy="no-referrer" />`,
+
   Gaming: "No i dontdo",
   "Font Awesome": `https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css`,
   "Material Icon Fonts": `<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />`,
   "Ant Design": `<script src="https://cdnjs.cloudflare.com/ajax/libs/antd/4.23.4/antd.min.js" integrity="sha512-TX5xqH1bMGCs+tNkJDdtQxK9QapYEXyP1PucEJdrNxSjtZKEW+1JNe3oEO5nY/Vv2+KZC3pPXJojTb9XDdinOg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>`,
   "Material-UI": `<script src="https://cdnjs.cloudflare.com/ajax/libs/material-ui/4.12.4/index.js" integrity="sha512-wEnX3bNd/CdyrOFR0KIGlHihK/w9x3/It8Vc18aymEF/F/f1q0Mq8T+GSxF1wYUACLEGECapuIYQdQlKY1LBJw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>`,
+  "Bootstrap Icon":'@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");'
+
 };
 
 window.addEventListener("load", (e) => {
