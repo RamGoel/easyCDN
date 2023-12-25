@@ -1,4 +1,4 @@
-# cdnExtension
+# easyCDN
 
 No more Searching for CDN Links again and again on the Web. Our Tool cdnExtension solves this problem by keeping all the popular cdn links right on the top of your browser.
 
@@ -73,4 +73,6 @@ Happy Contributing :)
 
 ## contributors
 [Ram Goel](https://github.com/RamGoel)
-
+[Ankit Singh](https://github.com/Mahisingh09)
+[janhvi pandey](https://github.com/jpgJanhvi)
+[Rohit Patil](https://github.com/rohit-raje-786)
