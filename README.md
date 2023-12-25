@@ -72,7 +72,7 @@ Happy Contributing :)
 
 
 ## contributors
-[Ram Goel](https://github.com/RamGoel)
-[Ankit Singh](https://github.com/Mahisingh09)
-[janhvi pandey](https://github.com/jpgJanhvi)
-[Rohit Patil](https://github.com/rohit-raje-786)
+- [Ram Goel](https://github.com/RamGoel)
+- [Ankit Singh](https://github.com/Mahisingh09)
+- [janhvi pandey](https://github.com/jpgJanhvi)
+- [Rohit Patil](https://github.com/rohit-raje-786)
