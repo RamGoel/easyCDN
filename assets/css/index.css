@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  font-family: Poppins;
+  color: black;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+#ec__header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#ec__page_head{
+  font-size: 15px;
+  font-weight: 700;
+  font-family: Poppins;
+}
+
+#ec__github_link{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#ec__github_icon{
+  width: 15px;
+  height: 15px;
+}
+
+#ec__version{
+  font-size: 10px;
+  text-decoration: none;
+  margin-right: 5px;
+}
+#ec__search_input {
+  padding: 5px;
+  border: .5px solid rgba(0, 0, 0, 0.316);
+  border-radius: 20px;
+  outline: none;
+  font-size: 12px;
+  padding-left: 10px;
+}
+
+#ec__links_container {
+  height: 70vh;
+  overflow-y: scroll;
+  text-align: left;
+}
+
+#ec__message_text {
+  background-color: black;
+  color: white;
+  margin: 5px auto;
+  padding: 5px;
+  font-size: 10px;
+}
+
+.ec__cdn_link {
+  color: black;
+  display: block;
+  font-size: 10px;
+  text-decoration: none;
+  margin: 5px 0px;
+  padding:5px;
+}
+
+.ec__cdn_link:hover {
+  background-color: rgb(102, 0, 255);
+  color: white;
+}

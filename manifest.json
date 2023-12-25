@@ -1,19 +1,18 @@
 {
-
     "manifest_version": 2,
-    "name": "Beastify",
+    "name": "easyCDN",
     "version": "1.0",
     "content_scripts":[
       {
        "matches":["<all_urls>"],
-       "js":["borderify.js"]
+       "js":["assets/js/index.js"]
       }
      ],
   
-    "description": "Adds a browser action icon to the toolbar. Click the button to choose a beast. The active tab's body content is then replaced with a picture of the chosen beast. See https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Examples#beastify",
-    "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/beastify",
+    "description": "A simple browser extension which is one place for all common CDN links. Great Tool for developers.",
+    "homepage_url": "https://github.com/RamGoel/easyCDN",
     "icons": {
-      "48": "code.png"
+      "48": "assets/images/icon.png"
     },
   
     "permissions": [
@@ -21,9 +20,9 @@
     ],
   
     "browser_action": {
-      "default_icon": "icon.png",
-      "default_title": "Beastify",
-      "default_popup": "beast.html"
+      "default_icon": "assets/images/icon.png",
+      "default_title": "easyCDN",
+      "default_popup": "index.html"
       
     },
   
