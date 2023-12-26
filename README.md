@@ -12,13 +12,13 @@ easyCDN is a time-saving tool designed to simplify the process of accessing popu
 
 ## Features- 
 - CDN Links from Various Providers
- + Access a curated list of popular CDN links without the need for manual searching.
+ * Access a curated list of popular CDN links without the need for manual searching.
 
 - Easy one click access
- + Streamline your workflow by eliminating the need to repeatedly search for CDN links online.
+ * Streamline your workflow by eliminating the need to repeatedly search for CDN links online.
   
 - Multiple Browser Support
- + easyCDN seamlessly integrates into your web browser, providing quick and easy access to CDN resources.
+ * easyCDN seamlessly integrates into your web browser, providing quick and easy access to CDN resources.
 
 
 ## Contributing
