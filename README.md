@@ -85,5 +85,9 @@ Happy Contributing :)
 
 ## contributors
 [Ram Goel](https://github.com/RamGoel)
-[JoshLamptey](https://github.com/JoshLamptey)
+[Josh Lamptey](https://github.com/JoshLamptey)
+[Ankit Singh](https://github.com/Mahisingh09)
+[Janhvi Pandey](https://github.com/jpgJanhvi)
+[Rohit Patil](https://github.com/rohit-raje-786)
+
 
