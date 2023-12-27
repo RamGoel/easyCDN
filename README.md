@@ -3,9 +3,9 @@
 easyCDN is a time-saving tool designed to simplify the process of accessing popular CDN (Content Delivery Network) links directly from your web browser. Say goodbye to the hassle of searching for CDN links on the web; easyCDN keeps all the popular CDN links conveniently at the top of your browser.
 
 ## Table of contents
- *[Features](#features)
- *[Contributing](#contributing)
- *[Contributors](#contributors)
+ - [Features](#features)
+ - [Contributing](#contributing)
+ - [Contributors](#contributors)
 
 
 
@@ -83,11 +83,11 @@ Now submit the pull request.
 
 Happy Contributing :)
 
-## contributors
-[Ram Goel](https://github.com/RamGoel)
-[Josh Lamptey](https://github.com/JoshLamptey)
-[Ankit Singh](https://github.com/Mahisingh09)
-[Janhvi Pandey](https://github.com/jpgJanhvi)
-[Rohit Patil](https://github.com/rohit-raje-786)
+## Contributors
+- [Ram Goel](https://github.com/RamGoel)
+- [Josh Lamptey](https://github.com/JoshLamptey)
+- [Ankit Singh](https://github.com/Mahisingh09)
+- [Janhvi Pandey](https://github.com/jpgJanhvi)
+- [Rohit Patil](https://github.com/rohit-raje-786)
 
 
